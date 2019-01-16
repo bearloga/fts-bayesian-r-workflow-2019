@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+report_cache/
+*.rds
+talk_cache/
+report_files/
+docs/index_cache/

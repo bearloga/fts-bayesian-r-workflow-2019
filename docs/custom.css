@@ -1,0 +1,19 @@
+.fts {
+  display: inline-block;
+  width: 14pt;
+  height: 14pt;
+  background-image: url(images/fts.png);
+  background-size: contain;
+}
+
+.large { font-size: 120%; }
+.small { font-size: 80%; }
+.smaller { font-size: 60%; }
+.bold { font-weight: bold; }
+
+.small .remark-code { font-size: 16px; }
+.smaller .remark-code { font-size: 14px; }
+.tiny .remark-code {
+  font-size: 12px;
+  line-height: 17px;
+}
