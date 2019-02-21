@@ -1,6 +1,6 @@
 ---
 title: Probabilistic Changepoint Modeling
-subtitle: An example report for Pittsburgh useR Group
+subtitle: An example report for Friendly Tech Space
 author: 
   - Mikhail Popov
 date: "`r sub('^0(\\d)', '\\1', format(Sys.Date(), '%d %B %Y'))`"
